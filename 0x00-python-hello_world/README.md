@@ -1,0 +1,1 @@
+In this project, we are going to learn the basic of the python programming language, how to use the python interpreter, printing variables using the print function, indexing and slcing in the python language and how to check code with the pycdestyle
