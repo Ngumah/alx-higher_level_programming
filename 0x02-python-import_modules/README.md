@@ -1,0 +1,1 @@
+In this project, we explore how to import functions from another file in python, create modules and use them, prevent code from being executed when imported and how to use commandline arguments with python programs
